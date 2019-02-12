@@ -1,0 +1,33 @@
+* {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.error-message {
+    color: red;
+}
+
+
+.results-section {
+    background:lightgrey;
+}
+
+a:link {
+    color:black;
+}
+
+a:visited {
+    color:purple;
+}
+
+
+
+
+
+
+
+
